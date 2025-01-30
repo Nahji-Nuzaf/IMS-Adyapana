@@ -1,7 +1,7 @@
 # IMS-Adyapana
 “Adyapana” is an Institute for students who have completed their Ordinary Levels Examination. The manager of Adyapana institute requested for a software to manage all the details of the institute. As per their requirements, the Institute Management System (IMS) has been developed by including all the process they need for a seamless experience of the software.
 
-![Admin SignIn](https://github.com/user-attachments/assets/1d982677-ce1a-46fe-8cfc-673755a8a403)
+![image](https://github.com/user-attachments/assets/673b28c7-399c-412f-9687-c0e7cb45a92e)
 ![image](https://github.com/user-attachments/assets/6633fc5f-0a41-4503-a731-0d4877b57e0e)
 ![image](https://github.com/user-attachments/assets/a7c0c6ca-4f2d-4a02-81fa-70b4444998f9)
 ![image](https://github.com/user-attachments/assets/a4fb094c-9d04-4e73-88f5-f0de1aa881ca)
